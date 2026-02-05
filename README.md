@@ -161,4 +161,16 @@ Findings and Conclusion
 3. Geographical Insights: The top countries and the average content releases by India highlight regional content distribution.
 4. Content Categorization: Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
+## Technology Stack
+- **Database**: PostgreSQL
+- **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
+- **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
+
+## How to Run the Project
+1. Install PostgreSQL and pgAdmin (if not already installed).
+2. Set up the database schema and tables using the provided normalization structure.
+3. Insert the sample data into the respective tables.
+4. Execute SQL queries to solve the listed problems.
+5. Explore query optimization techniques for large datasets.
+
 
