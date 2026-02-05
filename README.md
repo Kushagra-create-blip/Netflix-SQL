@@ -1,5 +1,8 @@
 # Netflix-SQL
 
+DATASET Link: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
+
+
 -- Netflix Project --
 
 CREATE TABLE netflix
